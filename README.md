@@ -97,7 +97,6 @@ Contributions are welcome! To contribute:
 For queries or support, feel free to reach out:
 
 - **Author**: Saurabh Shukla
-- **Email**: shuklapsaurabh@example.com
 
 ---
 
